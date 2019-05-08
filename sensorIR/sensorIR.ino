@@ -1,6 +1,6 @@
 #include <SharpIR.h>
 #include <Wire.h>
-#define ir A3
+#define ir A0
 #define model 20150
 // ir: the pin where your sensor is attached
 // model: an int that determines your sensor:  1080 for GP2Y0A21Y
